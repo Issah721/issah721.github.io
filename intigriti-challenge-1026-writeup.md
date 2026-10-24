@@ -10,7 +10,6 @@ author: issah721
 # The 100% Midnight Vault: How an Alternating Coupon Sequence Bypassed Deduplication in Intigriti Challenge 1026
 
 > **Challenge:** Intigriti Monthly CTF — Challenge 1026  
-> **Author:** Intigriti  
 > **Vulnerability Class:** Business Logic Error / E-Commerce Discount Manipulation  
 > **Severity:** Medium  
 > **Flag:** `INTIGRITI{094638e6-ba2f-4c50-8bb4-41ced0d5debd}`  
